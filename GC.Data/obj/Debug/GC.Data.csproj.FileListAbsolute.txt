@@ -37,3 +37,16 @@ D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Data\obj\De
 D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Data\obj\Debug\GC.Data.csproj.CopyComplete
 D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Data\obj\Debug\GC.Data.dll
 D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Data\obj\Debug\GC.Data.pdb
+D:\Downloads\projects to be uploaded in git\university\asp-dot-net-game-catalog\GC.Data\bin\Debug\GC.Data.dll.config
+D:\Downloads\projects to be uploaded in git\university\asp-dot-net-game-catalog\GC.Data\bin\Debug\GC.Data.dll
+D:\Downloads\projects to be uploaded in git\university\asp-dot-net-game-catalog\GC.Data\bin\Debug\GC.Data.pdb
+D:\Downloads\projects to be uploaded in git\university\asp-dot-net-game-catalog\GC.Data\bin\Debug\EntityFramework.dll
+D:\Downloads\projects to be uploaded in git\university\asp-dot-net-game-catalog\GC.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\projects to be uploaded in git\university\asp-dot-net-game-catalog\GC.Data\bin\Debug\EntityFramework.xml
+D:\Downloads\projects to be uploaded in git\university\asp-dot-net-game-catalog\GC.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\projects to be uploaded in git\university\asp-dot-net-game-catalog\GC.Data\obj\Debug\GC.Data.csprojAssemblyReference.cache
+D:\Downloads\projects to be uploaded in git\university\asp-dot-net-game-catalog\GC.Data\obj\Debug\GC.Data.Migrations.GameMigration.resources
+D:\Downloads\projects to be uploaded in git\university\asp-dot-net-game-catalog\GC.Data\obj\Debug\GC.Data.csproj.GenerateResource.cache
+D:\Downloads\projects to be uploaded in git\university\asp-dot-net-game-catalog\GC.Data\obj\Debug\GC.Data.csproj.CopyComplete
+D:\Downloads\projects to be uploaded in git\university\asp-dot-net-game-catalog\GC.Data\obj\Debug\GC.Data.dll
+D:\Downloads\projects to be uploaded in git\university\asp-dot-net-game-catalog\GC.Data\obj\Debug\GC.Data.pdb
