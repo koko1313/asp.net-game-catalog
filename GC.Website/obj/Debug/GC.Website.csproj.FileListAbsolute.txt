@@ -1,0 +1,400 @@
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\ApplicationInsights.config
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\GC.Website.dll.config
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\GC.Website.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\GC.Website.pdb
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Antlr3.Runtime.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.AI.Web.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.ApplicationInsights.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Newtonsoft.Json.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\System.Web.Helpers.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\System.Web.Mvc.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\System.Web.Optimization.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\System.Web.Razor.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\System.Web.WebPages.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\System.Web.WebPages.Razor.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\WebGrease.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\System.Web.Helpers.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\System.Web.Mvc.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\System.Web.Optimization.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\System.Web.Razor.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\System.Web.WebPages.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\System.Web.WebPages.Razor.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Antlr3.Runtime.pdb
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Newtonsoft.Json.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.ApplicationInsights.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.AI.Web.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\obj\Debug\GC.Website.csprojResolveAssemblyReference.cache
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\obj\Debug\GC.Website.csproj.CoreCompileInputs.cache
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\obj\Debug\GC.Website.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\obj\Debug\GC.Website.pdb
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\csc.exe
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\csc.exe.config
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\csc.rsp
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\csi.exe
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\csi.exe.config
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\csi.rsp
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.AppContext.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.Console.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.IO.Compression.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.IO.Pipes.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.Security.Claims.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.Threading.Thread.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.ValueTuple.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\vbc.exe
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\vbc.exe.config
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\vbc.rsp
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\EntityFramework.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\EntityFramework.SqlServer.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\PagedList.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\PagedList.Mvc.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\EntityFramework.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\EntityFramework.SqlServer.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\PagedList.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\PagedList.Mvc.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\GC.Data.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\GC.Data.pdb
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\GC.Data.dll.config
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.Owin.Cors.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.Owin.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.Owin.Security.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Owin.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\System.Net.Http.Formatting.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\System.Web.Cors.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\System.Web.Http.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\System.Web.Http.Owin.dll
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.Owin.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.Owin.Cors.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.Owin.Security.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\System.Net.Http.Formatting.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\System.Web.Http.xml
+C:\Users\zakak\Documents\Visual Studio 2017\Projects\GC.Website\GC.Website\bin\System.Web.Http.Owin.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\ApplicationInsights.config
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\GC.Website.dll.config
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\GC.Website.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\GC.Website.pdb
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\csc.exe
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\csc.exe.config
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\csc.rsp
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\csi.exe
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\csi.exe.config
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\csi.rsp
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.AppContext.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.Console.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.IO.Compression.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.IO.Pipes.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.Security.Claims.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.Threading.Thread.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.ValueTuple.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\vbc.exe
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\vbc.exe.config
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\vbc.rsp
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Antlr3.Runtime.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\EntityFramework.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\EntityFramework.SqlServer.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\GC.Data.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.AI.Web.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.ApplicationInsights.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.Owin.Cors.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.Owin.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.Owin.Security.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Newtonsoft.Json.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Owin.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\PagedList.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\PagedList.Mvc.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\System.Net.Http.Formatting.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\System.Web.Cors.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\System.Web.Helpers.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\System.Web.Http.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\System.Web.Http.Owin.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\System.Web.Mvc.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\System.Web.Optimization.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\System.Web.Razor.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\System.Web.WebPages.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\System.Web.WebPages.Razor.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\WebGrease.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\GC.Data.pdb
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\GC.Data.dll.config
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Antlr3.Runtime.pdb
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\EntityFramework.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\EntityFramework.SqlServer.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.AI.Web.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.ApplicationInsights.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.Owin.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.Owin.Cors.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.Owin.Security.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\Newtonsoft.Json.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\PagedList.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\PagedList.Mvc.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\System.Net.Http.Formatting.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\System.Web.Http.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\System.Web.Http.Owin.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\System.Web.Helpers.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\System.Web.Mvc.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\System.Web.Optimization.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\System.Web.Razor.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\System.Web.WebPages.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\bin\System.Web.WebPages.Razor.xml
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\obj\Debug\GC.Website.csprojResolveAssemblyReference.cache
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\obj\Debug\GC.Website.csproj.CoreCompileInputs.cache
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\obj\Debug\GC.Website.dll
+C:\Users\zakak\Desktop\ПУ\GC.Website\GC.Website\obj\Debug\GC.Website.pdb
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\ApplicationInsights.config
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\GC.Website.dll.config
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\GC.Website.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\GC.Website.pdb
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\csc.exe
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\csc.exe.config
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\csc.rsp
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\csi.exe
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\csi.exe.config
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\csi.rsp
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.AppContext.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.Collections.Immutable.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.Console.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.Diagnostics.Process.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.IO.Compression.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.IO.FileSystem.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.IO.Pipes.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.Reflection.Metadata.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.Security.AccessControl.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.Security.Claims.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.Threading.Thread.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.ValueTuple.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.Xml.XPath.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\vbc.exe
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\vbc.exe.config
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\vbc.rsp
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\VBCSCompiler.exe
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\roslyn\VBCSCompiler.exe.config
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Antlr3.Runtime.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\EntityFramework.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\EntityFramework.SqlServer.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\GC.Data.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.AI.DependencyCollector.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.AI.Web.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.AI.WindowsServer.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.ApplicationInsights.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.Owin.Cors.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.Owin.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.Owin.Security.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.Owin.Security.Google.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Newtonsoft.Json.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Owin.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\PagedList.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\PagedList.Mvc.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\System.Net.Http.Formatting.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\System.Web.Cors.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\System.Web.Helpers.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\System.Web.Http.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\System.Web.Http.Owin.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\System.Web.Mvc.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\System.Web.Optimization.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\System.Web.Razor.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\System.Web.WebPages.Deployment.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\System.Web.WebPages.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\System.Web.WebPages.Razor.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\WebGrease.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\GC.Data.pdb
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\GC.Data.dll.config
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Antlr3.Runtime.pdb
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\EntityFramework.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\EntityFramework.SqlServer.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.AI.DependencyCollector.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.AI.Web.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.AI.WindowsServer.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.ApplicationInsights.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.Owin.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.Owin.Cors.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.Owin.Security.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.Owin.Security.Google.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\Newtonsoft.Json.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\PagedList.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\PagedList.Mvc.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\System.Net.Http.Formatting.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\System.Web.Http.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\System.Web.Http.Owin.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\System.Web.Helpers.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\System.Web.Mvc.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\System.Web.Optimization.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\System.Web.Razor.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\System.Web.WebPages.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\bin\System.Web.WebPages.Razor.xml
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\obj\Debug\GC.Website.csprojAssemblyReference.cache
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\obj\Debug\GC.Website.csproj.CoreCompileInputs.cache
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\obj\Debug\GC.Website.csproj.CopyComplete
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\obj\Debug\GC.Website.dll
+D:\Downloads\projects to be uploaded in git\university\GC.Website\GC.Website\obj\Debug\GC.Website.pdb

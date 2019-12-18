@@ -1,0 +1,82 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@using GC.Data.Entities;
+@model IEnumerable<Game>
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Index</h2>
+<p class="col-md-2">
+    @if (User.IsInRole("Admin"))
+    {
+        @Html.ActionLink("Create New", "Create")
+    }
+</p>
+
+
+@using (Html.BeginForm())
+{
+    <div class="col-md-8">
+        <div class="col-md-4 col-md-offset-7">
+            @Html.TextBox("titleSearch", (string)ViewBag.TitleSearch, new { @class = "form-control" })
+        </div>
+        <div class="col-md-1">
+            <button class="btn btn-primary">
+                <i class="glyphicon glyphicon-search"></i> Search
+            </button>
+        </div>
+    </div>
+    <div class="col-md-2" style="height: 50px;"></div>
+}
+
+<hr />
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.ActionLink(Html.DisplayNameFor(model => model.Name).ToString(), "Index", new { sortOrder = ViewBag.NameSortParm, titleSearch = ViewBag.TitleSearch })
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ReleaseYear)
+        </th>
+        <th>
+            @Html.ActionLink(Html.DisplayNameFor(model => model.GenreId).ToString(), "Index", new { sortOrder = ViewBag.GenreSortParm, titleSearch = ViewBag.TitleSearch })
+        </th>
+        <th>
+            @Html.ActionLink(Html.DisplayNameFor(model => model.RatingId).ToString(), "Index", new { sortOrder = ViewBag.RatingSortParm, titleSearch = ViewBag.TitleSearch })
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReleaseYear)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Genre.GenreName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Rating.RatingValue)
+            </td>
+            <td>
+                @if (User.IsInRole("Admin"))
+                {
+                    @Html.ActionLink("Edit", "Edit", new { id = item.GameId }) 
+                }
+                @if (User.IsInRole("Admin") || User.IsInRole("User"))
+                {
+                    @Html.ActionLink("Details", "Details", new { id = item.GameId }) 
+                }
+                @if (User.IsInRole("Admin"))
+                {
+                    @Html.ActionLink("Delete", "Delete", new { id = item.GameId })
+                }
+            </td>
+        </tr>
+    }
+</table>
+@Html.PagedListPager((IPagedList)Model, page => Url.Action("Index", new { page, titleSearch = ViewBag.TitleSearch, sortOrder = ViewBag.CurrentSortParm }))

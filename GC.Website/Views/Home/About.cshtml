@@ -1,0 +1,70 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<p>Distributed Applications Project.</p>
+
+<ul>
+    <li><b>Online electronic game catalog. End course task for odd faculty numbers</b></li>
+    <li><b>Structure of the system by entities:</b>
+        <ul>
+            <li><b><em>Game</em></b>
+                <ul><em>
+                    <li>Int GameId</li>
+                    <li>String Name *</li>
+                    <li>String ReleaseYear *</li>
+                    <li>Int GenreId</li>
+                    <li>Int RatingId</li>
+                </em></ul>
+            </li>
+            <li><b><em>Genre</em></b>
+                <ul><em>
+                    <li>Int GenreId</li>
+                    <li>String GenreName *</li>
+                    <li>String Description</li>
+                </em></ul>
+            </li>
+            <li><b><em>Rating</em></b>
+                <ul><em>
+                    <li>Int RatingId</li>
+                    <li>String RatingValue *</li>
+                    <li>String Description *</li>
+                </em></ul>
+            </li>
+        </ul>
+    </li>
+
+    <li><b>Restrictions</b><br>
+        <em>Required fields are mark with stars. Eligible characters:</em>
+        <ul><em>
+            <li><b>* Game.Name</b> – acceptable characters between 1 and 200.</li>
+            <li><b>* Genre.GenreName</b> – acceptable characters between 1 and 100.</li>
+            <li><b>* Rating.RatingValue</b> – acceptable characters between 1 and 100.</li>
+            <li><b>* Rating.Description</b> – acceptable characters between 1 and 400.</li>
+        </em></ul>
+    </li>
+
+    <li><b>For each model have to be created a CRUD of views.</b></li>
+
+    <li><b>Filters</b><br>
+        <em>Games/Index view need to have:</em>
+        <ul>
+            <li>Pager</li>
+            <li>Sort column on Name, Genre and Rating.</li>
+        </ul>
+    </li>
+
+    <li><b>The online library need to have and authentication. Roles and access:</b>
+        <ul>
+            <li><b>Admin</b> <em>- Full access</em></li>
+            <li><b>User</b> <em>- Need to access Games/Index page, and need to have rights to use search panel. But without access to Create, Update, Delete and access to Details.</em></li>
+            <li><b>Anonymous</b> <em>– not register users. They can see only Games/Index and can use search panel. But without access to Create, Update, Delete and Details.</em></li>
+        </ul>
+    </li>
+
+    <li><b>Information</b><br>
+        <em>In the description for controller to view, we will use the following abbreviation.<br>
+        <b>Example:</b> View Index to controller Games is Games/Index</em></li>
+</ul>
